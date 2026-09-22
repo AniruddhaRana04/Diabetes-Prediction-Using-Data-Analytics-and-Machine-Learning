@@ -94,8 +94,8 @@ This project builds a supervised multi-class classification pipeline to predict 
 ### 1. Clone / download the project
 
 ```bash
-git clone <your-repo-url>
-cd "Diabetes Prediction"
+git clone https://github.com/AniruddhaRana04/Diabetes-Prediction-Using-Data-Analytics-and-Machine-Learning.git
+cd Diabetes-Prediction-Using-Data-Analytics-and-Machine-Learning
 ```
 
 ### 2. Create a virtual environment (recommended)
