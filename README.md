@@ -80,7 +80,7 @@ This project builds a supervised multi-class classification pipeline to predict 
 ## Project Structure
 
 ```
-├── AniruddhaRana_Diabetes Prediction Using Data Analytics and Machine Learning.ipynb                          # Main notebook — EDA, training, evaluation
+├── AniruddhaRana_Diabetes Prediction Using Data Analytics and Machine Learning.ipynb    # Main notebook — EDA, training, evaluation
 ├── Dataset of Diabetes .csv   # Raw dataset
 ├── deployment_pipeline.pkl    # Saved inference bundle
 ├── requirements.txt           # Python dependencies
